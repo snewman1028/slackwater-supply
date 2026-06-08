@@ -74,7 +74,7 @@ const products = [
 
     image: "images/lure.jpg",
 
-    alt: "Lantern Eel glowing fishing lure for low-light fishing conditions"
+    alt: "Lantern Eel glowing fishing lure for low-light fishing conditions",
 
     description:
       "Designed for low-light waters, the Lantern Eel draws attention where visibility fails. Its subtle glow and movement mimic prey that shouldn’t be there… but is.",
@@ -88,7 +88,7 @@ const products = [
 
     image: "images/spinner.jpg",
 
-    alt: "Blackwater Spinner Lure. For murky water fisihing"
+    alt: "Blackwater Spinner Lure. For murky water fisihing",
 
     description:
       "Built for murky channels and aggressive strikes, the Blackwater Spinner produces vibration-heavy movement for reduced visibility conditions.",
@@ -102,7 +102,7 @@ const products = [
 
     image: "images/line.jpg",
 
-    alt: "Mireline Braid. Cold-water fisihing line"
+    alt: "Mireline Braid. Cold-water fisihing line",
 
     description:
       "Low-visibility braided line designed for cold-water durability and silent casting across shallow marsh conditions.",
