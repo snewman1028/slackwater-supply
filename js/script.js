@@ -9,7 +9,10 @@ async function loadFieldNotes() {
   const notes = await response.json();
 
   // put it in the accordion
-  const container = document.getElementById("accordion-container");
+  const container =
+  document.getElementById("accordion-container");
+
+if (!container) return;
 
   // close previous
   container.innerHTML = "";
